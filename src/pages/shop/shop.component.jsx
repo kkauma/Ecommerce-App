@@ -1,5 +1,6 @@
 import React from "react";
 
+// Class Component
 class ShopPage extends React.Component {
   constructor(props) {
     super(props);
