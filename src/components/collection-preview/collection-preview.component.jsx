@@ -2,6 +2,7 @@ import React from "react";
 
 import "./collection-preview.styles.scss";
 
+// Collection Preview Comonent
 const CollectionPreview = ({ title, items }) => {
   return (
     <div className="collection-preview">
